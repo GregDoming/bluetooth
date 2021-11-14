@@ -6,8 +6,8 @@ import BluetoothPair from './BluetoothPair'
 function App() {
   return (
     <div className="App">
-      <Bluetooth></Bluetooth>
-      {/* <BluetoothPair /> */}
+      {/* <Bluetooth></Bluetooth> */}
+      <BluetoothPair />
     </div>
   );
 }
